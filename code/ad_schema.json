@@ -11,7 +11,7 @@
 
         {
             "name": "Alice Lice", 
-            "password": "Naithen282.",
+            "password": "P@ssword123.",
             "groups": [
                 "Employees"
 
@@ -19,7 +19,7 @@
         },
         {
             "name": "Bob Ob", 
-            "password": "Naithen282.",
+            "password": "P@ssword123.",
             "groups": [
                 "Employees"
 
