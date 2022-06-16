@@ -8,5 +8,5 @@
 2. Install the Active Directory Windows Feature
 
 ```shell
-Install-WindowsFeature AD-Domain-Services -IncludeManagementServices
+Install-WindowsFeature AD-Domain-Services -IncludeManagementTools
 ```
