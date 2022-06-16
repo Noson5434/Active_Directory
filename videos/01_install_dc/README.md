@@ -8,15 +8,5 @@
 2. Install the Active Directory Windows Feature
 
 ```shell
-Install-WindowsFeature AD-Domain-Services -IncludeManagementServices
-```
-
-```
-Get-NetIPAddress
-```
-
-# Joining the Workstation to the domain
-
-```
-Add-Computer -DomainName xyz.com -Credential (Get-Credential) -Force -Restart
+Install-WindowsFeature AD-Domain-Services -IncludeManagementTools
 ```
